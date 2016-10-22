@@ -1,0 +1,82 @@
+body{
+    font-family: arial, sans-serif;
+    font-size: 13px;
+}
+a{
+    color: #000000;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+label{
+    margin: 0px 0px 0px 150px;
+}
+.top{
+    float: right;
+    padding-left: 30px;
+    margin-top: 0px;
+}
+.g_form{
+    margin: 0 auto;
+    width: 600px;
+    margin-top: 150px;
+}
+#name{
+    width: 500px;
+    height: 40px;
+    border: none;
+}
+.submit{
+    padding-left: 170px;
+}
+.search_data{
+    margin-top: 30px;
+    width: 600px;
+    height: 40px;
+    border: solid;
+    border-width: 1px;
+    border-color: #1E90FF;
+}
+#mic{
+    max-width: 20px;
+    max-height: 25px;
+    margin-left: 65px;
+}
+#button{
+    padding: 10px 15px 10px 15px;
+    margin: 30px 3px 0px 0px;
+    font-weight: bold;
+    color: #808080;
+    border: none;
+}
+#button:hover{
+    border: solid;
+    color: #000000;
+    border-width: 0px;
+}
+li{
+    display: inline;
+    padding: 5px;
+    text-decoration: none;
+}
+#l_side{
+    margin-top: 10px;
+    float: left;
+}
+#r_side{
+    margin-top: 10px;
+    float: right;
+}
+#footer{
+   max-width: 1290px;
+   padding-right: 50px;
+   position:fixed;
+   right:0px;
+   left:0px;
+   bottom:0px;
+   margin-bottom: 0px;
+   height:50px;
+   width:100%;
+   background:#e3e3e3;
+}
